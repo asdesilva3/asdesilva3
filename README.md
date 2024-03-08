@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Desilva</h1>
 <h3 align="left">Currently learning data science, building Python applications, and using Streamlit to visualize and share analyzed data. Experienced with MySQL and MongoDB for robust database solutions.</h3>
 
-- 🌱 I’m currently learning **Python, SQL, MongoDB, Streamlit**
+-  I’m currently learning **Python, SQL, MongoDB, ML & NLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/asdesilva3](https://github.com/asdesilva3)
+-  All of my projects are available at [https://github.com/asdesilva3](https://github.com/asdesilva3)
 
-- 📫 How to reach me **asdesilva3@gmail.com**
+-  How to reach me **asdesilva3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
